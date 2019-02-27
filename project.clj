@@ -6,6 +6,7 @@
   :dependencies [[org.clojure/clojure "1.10.0"]
                  [org.clojure/clojurescript "1.10.520"]
                  [org.clojure/spec.alpha "0.2.176"]
+                 [org.clojure/test.check "0.10.0-alpha3"]
                  [org.clojure/core.async "0.4.490"]
                  [com.stuartsierra/component "0.4.0"]
                  [com.taoensso/timbre "4.10.0"]
