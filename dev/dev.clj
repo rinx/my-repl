@@ -19,6 +19,7 @@
     [clj-http.client :as http]
     [cheshire.core :as cheshire]
     [camel-snake-kebab.core :as camel-snake-kebab]
+    [clj-gatling.core :as gatling]
     [my-repl.core :as core]))
 
 (stest/instrument)

@@ -13,7 +13,8 @@
                  [orchestra "2019.02.06-1"]
                  [clj-http "3.9.1"]
                  [cheshire "5.8.1"]
-                 [camel-snake-kebab "0.4.0"]]
+                 [camel-snake-kebab "0.4.0"]
+                 [clj-gatling "0.13.0"]]
   :plugins [[lein-ancient "0.6.15"]]
   :profiles {:dev {:dependencies [[org.clojure/tools.namespace "0.2.11"]]
                    :source-paths ["dev"]}
