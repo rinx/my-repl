@@ -12,7 +12,7 @@
                  [com.taoensso/timbre "4.10.0"]
                  [orchestra "2019.02.06-1"]
                  [clj-http "3.9.1"]
-                 [cheshire "5.8.1"]
+                 [metosin/jsonista "0.2.2"]
                  [camel-snake-kebab "0.4.0"]
                  [clj-gatling "0.13.0"]]
   :plugins [[lein-ancient "0.6.15"]]

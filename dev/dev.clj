@@ -17,7 +17,7 @@
     [com.stuartsierra.component :as component]
     [taoensso.timbre :as timbre]
     [clj-http.client :as http]
-    [cheshire.core :as cheshire]
+    [jsonista.core :as jsonista]
     [camel-snake-kebab.core :as camel-snake-kebab]
     [clj-gatling.core :as gatling]
     [my-repl.core :as core]))
